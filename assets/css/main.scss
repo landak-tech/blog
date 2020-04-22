@@ -1,0 +1,27 @@
+---
+# Add a comment to make this file sass-y.
+# Change this file for any custom CSS.
+---
+
+/* We need to add display:inline in order to align the '>>' of the 'read more' link */
+.post-excerpt p {
+	display:inline;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"syntax",
+    "starsnonscss"
+;
+
+.bg-one {
+	background-color: #056DD9;
+}
+
+.bg-two {
+	background-color: #333333;
+}
+
+.bg-three {
+	background-color: #3D3D3D;
+}
