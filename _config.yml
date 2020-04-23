@@ -1,7 +1,8 @@
 # Site
 name: "Landak Analytics"
 title: "Blog"
-description: "A data science blog"
+jargon: "A Data Storytelling"
+description: "Understand the world through a small chunk of data."
 logo: 'assets/images/logo.svg'
 # favicon: 'assets/images/logo.svg'
 baseurl: /blog
@@ -13,7 +14,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  joko:
     name: Joko Pawitro
     display_name: Joko
     gravatar: 69ebedde6cbd57bf6a50a9bdb5ee6a51

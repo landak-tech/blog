@@ -1,23 +1,30 @@
-# Mediumish - Jekyll Theme
+---
+toc: true
+---
+# Credits
+This side is build using [Jekyll](https://jekyllrb.com/) and themes from [WowThemesNet](https://bootstrapstarter.com/).
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+# Writing a markdown blog manual
+Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. This readme willMarkdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. This readme will show you to write a post using Github Markdown Flavour syntax.
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+## Headings
+'# heading 1'
+'## heading 2'
+'### heading 3'
+etc.
 
+## Create links
+'[Yourtextlink](https://your.url)'
+[Yourtextlink](https://your.url)
 
-### Copyright
+## Create quote
+'> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+## Bold text
+'**bold text**'
+**bold text**
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+## Italic text
+'*italic text*'
+*italic text*
