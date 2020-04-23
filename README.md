@@ -5,9 +5,11 @@ This side is build using [Jekyll](https://jekyllrb.com/) and themes from [WowThe
 Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. This readme willMarkdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. This readme will show you to write a post using Github Markdown Flavour syntax.
 
 ## Headings
-'# heading 1'
-'## heading 2'
-'### heading 3'
+```
+# heading 1
+## heading 2
+### heading 3
+```
 etc.
 
 ## Create links
