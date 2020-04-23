@@ -41,9 +41,9 @@ etc.
 
 ## Highlights
 ```
-==highlighted text==
+<mark>highlighted text</mark>
 ```
-==highlighted text==
+<mark>highlighted text</mark>
 
 ## Escaped Charaters
 ```
