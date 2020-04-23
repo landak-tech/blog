@@ -76,7 +76,7 @@ etc.
    b. Item 3b
 
 ## Images
-![GitHub Logo](/images/logo.png)
+![Landak Logo](/assets/images/logo.svg)
 ```
 Format: ![Alt Text](url)
 ```
