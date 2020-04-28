@@ -1,0 +1,32 @@
+---
+layout: post
+title:  ""
+author: #check _config.yaml
+categories: [ ,  ]
+tags: [ ,  ]
+date: YYYY-MM-DD HH:MM
+image: #located in assets/images/
+credit: 
+description: ""
+featured: #boolean
+hidden: #boolean
+rating: #1-5 stars floating number
+beforetoc: ""
+toc: #boolean 
+#tableau dashboard embedding script.
+##<iframe src="(Dashboard URL)?:showVizHome=no&:embed=true" width="660" height="900"></iframe>
+---
+
+
+
+# Objectives
+
+# Data Sources
+
+## Obstacles
+
+# Stories
+
+## Preparation
+
+## Analysis
