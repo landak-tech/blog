@@ -4,7 +4,7 @@ title:  "Estimated Indonesian Agricultural Production"
 author: joko
 categories: [ agriculture, Indonesia ]
 tags: [ tableau, KNIME ]
-image: assets/images/2.jpg
+image: assets/images/8.jpg
 credit: <a href="https://www.freepik.com/free-photos-vectors/travel">Travel photo created by onlyyouqj - www.freepik.com</a>
 description: "This is the description"
 featured: true

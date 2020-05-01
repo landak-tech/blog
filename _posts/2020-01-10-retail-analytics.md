@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  ""
+title:  "Analytics for Retail Industry"
 author: #check _config.yaml
 categories: #[ category I, category II  ]
 tags: #[ tag 1, tag 2  ]
 #date: YYYY-MM-DD HH:MM
 image: assets/images/0.jpg
-credit: <a href="https://www.freepik.com/free-photos-vectors/background">Background photo created by freepik - www.freepik.com</a>
+credit: 
 description: ""
-featured: #boolean
-hidden: #boolean
+featured: false
+hidden: false
 rating: #1-5 stars floating number
 beforetoc: ""
 toc: #boolean 
