@@ -1,45 +1,32 @@
 ---
 layout: post
-title:  "Education Analytics"
-author: #check _config.yaml
-categories:
+title:  "Data Analytics for Educational Purposes"
+author: joko
+categories: [ Learning Analytics ]
 tags: 
 #date: YYYY-MM-DD HH:MM
-image: assets/images/0.jpg
-credit: 
+image: assets/images/3.jpg
+credit: <a href="https://www.freepik.com/free-photos-vectors/background">Background photo created by jcomp - www.freepik.com</a>
 description: ""
 featured: false
 hidden: false
 rating: #1-5 stars floating number
 beforetoc: ""
+keywords: "" #keywords for SEO
 toc: #boolean 
 #tableau dashboard embedding script.
 ##<iframe src="(Dashboard URL)?:showVizHome=no&:embed=true" width="660" height="900"></iframe>
 ---
 
-# What
-Incididunt Lorem proident non proident cillum est amet. Ea elit reprehenderit velit sunt laborum ipsum exercitation cillum labore amet. Et pariatur minim quis minim. Nisi nisi deserunt dolor laborum dolore occaecat. Ea ad est adipisicing dolore veniam Lorem esse exercitation cillum eu. Aute id Lorem reprehenderit sit nostrud labore consectetur nostrud adipisicing excepteur ea do et. Quis reprehenderit cupidatat sint labore sit reprehenderit dolor.
+According to the *LAK 2011*, learning analytics is the measurement, collection, analysis, and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. In other words, it is a data analytics methods which applied to educational purposes.
 
-Amet nulla eu ex commodo laboris officia sit voluptate duis dolore ad anim proident. In mollit reprehenderit laborum consectetur dolor do labore mollit. Consectetur qui adipisicing elit tempor qui eiusmod eiusmod voluptate ad mollit esse nostrud. Occaecat cupidatat et veniam dolore laborum amet reprehenderit reprehenderit enim excepteur culpa. Ad officia tempor deserunt mollit non ullamco mollit. Cupidatat velit laborum nulla sit. Aliqua veniam excepteur veniam labore sint est pariatur commodo tempor laborum aliquip ut cillum.
-# Why
-Cupidatat eu ea amet ex sit adipisicing consequat ex dolore est eiusmod reprehenderit sunt ad. Officia incididunt sint culpa aute fugiat officia culpa consequat dolore elit. Cupidatat eiusmod reprehenderit dolor velit esse Lorem duis quis. Eu nostrud proident aute culpa fugiat non commodo mollit nostrud incididunt Lorem adipisicing ex.
-
-Enim incididunt incididunt ut Lorem duis irure ut incididunt. Esse nostrud ullamco est irure labore id anim. Enim nisi laborum elit officia cupidatat elit officia et aliqua sit. Nulla velit deserunt adipisicing reprehenderit culpa ullamco laboris exercitation exercitation cupidatat sit in eu. Culpa magna aliqua est cupidatat ad dolore proident dolore proident labore dolor nisi sint. Nostrud ex minim culpa esse esse velit minim ullamco.
-
-Irure sunt id deserunt elit aliqua sint fugiat. Et eu elit nostrud in sit voluptate. Veniam in reprehenderit elit dolore aute veniam esse commodo. Est fugiat minim quis cupidatat est eiusmod id. Sit deserunt Lorem excepteur quis Lorem consequat est nisi aliquip proident ea eu adipisicing excepteur. Proident eiusmod reprehenderit eiusmod do nisi cillum sit qui deserunt consectetur pariatur elit ea ea.
-# Who
-Nisi sunt quis Lorem cillum tempor ad minim deserunt laborum. Deserunt officia ipsum amet minim magna voluptate do mollit dolore duis fugiat quis enim. Commodo anim dolor ad occaecat aute anim. Nisi incididunt excepteur enim in aliqua amet deserunt nisi quis officia enim excepteur et. Irure adipisicing in amet in pariatur dolor. Pariatur duis nostrud est non deserunt consequat esse officia ad.
-# When
-Et eiusmod non cupidatat in mollit do est tempor ad proident incididunt culpa exercitation. Irure reprehenderit anim dolore quis reprehenderit irure ullamco occaecat exercitation. Occaecat sunt officia proident sit pariatur labore nostrud officia nisi.
-# Where
-Mollit Lorem fugiat laborum dolore consequat nisi do ea. Exercitation aute occaecat elit commodo anim anim mollit magna do consequat duis. Magna commodo ad anim nostrud mollit. Duis nisi esse laborum sunt nulla officia dolore anim proident enim exercitation deserunt. Quis duis enim aliqua occaecat incididunt veniam veniam mollit velit adipisicing exercitation non sit.
-# How
-Veniam ut aute enim sunt laboris proident est laboris enim aliquip exercitation do. Ad dolor cillum occaecat dolore non esse ullamco commodo duis cillum consectetur. Irure dolor Lorem id quis laborum commodo consequat eu do. Ipsum ad excepteur minim non laboris minim mollit est voluptate. Sint dolore dolor anim ipsum enim. Cupidatat dolor sit deserunt aute. Dolore aliqua nisi velit fugiat adipisicing exercitation.
-
-Enim nulla nulla qui labore et laborum et dolore elit. Voluptate officia sint irure elit in magna non esse esse in eu sunt. Proident proident anim elit minim nostrud consequat.
-
-Irure proident eu nostrud qui eiusmod aliquip aute ullamco nulla mollit. Aute laboris in anim occaecat irure ad. Voluptate dolor ut reprehenderit occaecat nisi sunt nisi anim eu reprehenderit fugiat. Adipisicing deserunt ea non aute fugiat culpa culpa est nisi commodo. Culpa sunt irure sunt ad. Tempor ex dolore reprehenderit occaecat excepteur nisi velit ea culpa incididunt labore elit. Lorem enim enim excepteur proident nostrud pariatur consequat sunt.
-
-Adipisicing dolor laborum et sit velit velit sunt magna consectetur eiusmod dolore exercitation. Velit consequat ex Lorem id velit ipsum magna anim Lorem dolor ullamco. Sint mollit dolore Lorem culpa nulla nostrud duis laborum. Magna irure amet et proident occaecat aliqua nisi velit amet id dolore. Nisi ipsum elit in ut officia fugiat in ipsum deserunt aliqua.
-
-Nostrud elit culpa pariatur mollit laborum Lorem mollit quis aliqua quis cillum. Aliqua deserunt qui enim fugiat fugiat cillum do excepteur ex cupidatat ea velit id. Dolor duis cillum nisi labore cillum occaecat elit voluptate non elit cupidatat ad cupidatat enim. Veniam culpa duis fugiat nisi sint elit. Enim proident qui et cupidatat officia nulla nostrud.
+The use cases of data analytics in education are beyond the prediction of students' success in academics and the identification of students who ar at risk of failing in their academics. It could be applied, but not limited to, in the following way such as:
+1. **Educational Data-mining**  
+   It could be used for predictive modeling e.g., to identify at-risk-learners, provide insights, and assist the educators to appropriately offer intervention and assistance towards the learners.
+2. **Highly Adaptive Curriculum**  
+   By utilizing data analytics we can develop as many curricula as many students there is, it is possible to make the curriculum suited to every student's personality. Even if you're running in limited resources, data analytics could help to optimize both curricula, students, and resources by clustering and optimizing it to the best possible scenario.
+3. **Adaptive Learning**  
+   As mentioned above, data analytics not only possible to develop adaptive content but also possible to offer learner support, e.g. offer them other opportunities of engagement. 
+4. **Improvement for Both Learners and Educators**  
+   Learning analytics can transform models and pedagogical approaches. The general idea is to innovate i. e. to aggregate support to student's success. It is not the goal of this approach to substitute the teacher. It may assist faculty in tailoring their teaching to optimize learning resources and organizing courses that facilitate a student's engagement.<br><br>
+To conclude, learning analytics is about to alter existing teaching, learning, and mainly the assessment process. It is not a suggestion to get rid of the existing education, otherwise, it's empowering the current education system, to improve and benefit both students and teachers.

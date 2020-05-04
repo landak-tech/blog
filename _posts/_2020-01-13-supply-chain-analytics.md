@@ -1,17 +1,21 @@
 ---
 layout: post
-title:  "How does COVID-19 pandemic affect the economics of a country?"
-author: joko
-categories: [ health, pandemic, world ]
-tags: [ tableau ]
-image: assets/images/9.jpg
-credit: <a href="https://www.freepik.com/free-photos-vectors/design">Design vector created by freepik - www.freepik.com</a>
-description: "This is the description"
+title:  "Supply Chain Analytics"
+author: #check _config.yaml
+categories: 
+tags: 
+#date: YYYY-MM-DD HH:MM
+image: assets/images/0.jpg
+credit: 
+description: ""
 featured: false
 hidden: false
-rating:
-beforetoc: 
-toc: true 
+rating: #1-5 stars floating number
+beforetoc: ""
+keywords: "" #keywords for SEO
+toc: #boolean 
+#tableau dashboard embedding script.
+##<iframe src="(Dashboard URL)?:showVizHome=no&:embed=true" width="660" height="900"></iframe>
 ---
 
 # What

@@ -12,6 +12,7 @@ featured: false
 hidden: false
 rating: #1-5 stars floating number
 beforetoc: ""
+keywords: "" #keywords for SEO
 toc: #boolean 
 #tableau dashboard embedding script.
 ##<iframe src="(Dashboard URL)?:showVizHome=no&:embed=true" width="660" height="900"></iframe>
