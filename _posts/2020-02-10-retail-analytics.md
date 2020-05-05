@@ -78,5 +78,5 @@ The retail industry faces an increasingly extreme competition either from within
 Retailers who want to thrive in the coming months and years can’t afford not to incorporate data into their decisions. Yes, setting up the right systems and learning how to gather intel could take some work; but when you’ve mastered it, the knowledge and insights you gain will make it all worthwhile.
 
 ## References
-1. **Centareum**; Data Analytics in Retail Industry; *2018*; *Available from: [Link](https://medium.com/@centareum/data-analytics-in-retail-industry-85d2e85edd20)*; *Accessed on: 2020-01-10*.
-2. **Hemanth Kumar**; Top 5 Predictive Analytics Use Cases In The Retail Industry; *Available from: [Link](https://acuvate.com/blog/top-5-predictive-analytics-use-cases-retail-industry/)*; *Accessed on: 2020-01-10*.
+1. **Centareum**; Data Analytics in Retail Industry; *2018*; *Available from: [Link](https://medium.com/@centareum/data-analytics-in-retail-industry-85d2e85edd20)*; *Accessed on: 2020-02-10*.
+2. **Hemanth Kumar**; Top 5 Predictive Analytics Use Cases In The Retail Industry; *Available from: [Link](https://acuvate.com/blog/top-5-predictive-analytics-use-cases-retail-industry/)*; *Accessed on: 2020-02-10*.
