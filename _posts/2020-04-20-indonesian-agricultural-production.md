@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Estimated Indonesian Agricultural Production"
+title:  "Forecasted Indonesian Agricultural Production"
 author: joko
 categories: [ agriculture, Indonesia ]
 tags: [ tableau, KNIME ]
