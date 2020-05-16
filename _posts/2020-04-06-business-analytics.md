@@ -59,4 +59,4 @@ Ideally, any organization that follows any management system standard, either IS
 ## References
 1. **James R. Evans**; Business Analytics: Methods, Models, and Decisions; *2nd Edition*; *Pearson*; *2017*.
 2. **Foster Provost & Tom Fawcett**; Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking; *O'Reilly*; *2013*.
-3. **Microsoft 365 Team**; The Benefits of Business Analytics, 2019; *Available from: [link](https://www.microsoft.com/en-us/microsoft-365/growth-center/resources/benefits-of-business-analytics)*; *Accessed: 2019-01-13*.
+3. **Microsoft 365 Team**; The Benefits of Business Analytics, 2019; *Available from: [link](https://www.microsoft.com/en-us/microsoft-365/growth-center/resources/benefits-of-business-analytics)*; *Accessed: 2020-01-13*.

@@ -8,8 +8,8 @@ tags:
 image: assets/images/4.png
 credit: <a href="https://www.freepik.com/free-photos-vectors/banner">Banner vector created by macrovector_official - www.freepik.com</a>
 description: "Data Analytics Implementation in Asset-Intensive Industry"
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: #1-5 stars floating number
 beforetoc: ""
 toc: false #boolean 
