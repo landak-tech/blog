@@ -7,8 +7,8 @@ tags: [ tableau, KNIME ]
 image: assets/images/8.jpg
 credit: <a href="https://www.freepik.com/free-photos-vectors/travel">Travel photo created by onlyyouqj - www.freepik.com</a>
 description: "This is the description"
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating:
 beforetoc: "Agriculture is one of the key sectors within the Indonesian Economy, contributing 14.43% of GDP and representing 41% of the country's total labor force, yet it's data availability and consistency for analytics purposes are far from ideal."
 toc: true 
